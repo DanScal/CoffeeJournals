@@ -26,7 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_toEndOf="@+id/take_pic_btn"
-        android:text="Submit" />
+        android:text="Continue" />
 
     <Button
         android:id="@+id/take_pic_btn"
@@ -54,7 +54,7 @@
         android:layout_centerHorizontal="true"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name" />
+        android:text="Email" />
 
     <EditText
         android:id="@+id/age_input"
@@ -64,7 +64,7 @@
         android:layout_centerHorizontal="true"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name" />
+        android:text="Age" />
 
     <TextView
         android:id="@+id/enter_name_textview"
